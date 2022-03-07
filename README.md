@@ -1,2 +1,2 @@
 # SAIT
-School Labs &amp; Projects
+School Projects & Assignments
