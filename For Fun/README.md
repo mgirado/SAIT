@@ -1,1 +1,1 @@
-A network VLSM subnetting script I made during my 2nd semester of classes, wanted to solidify my understanding of subnetting, practice my scripting, and most of all, have fun with it.
+subnettingscript_mg1.py - A network VLSM subnetting script I made during my 2nd semester of classes, wanted to solidify my understanding of subnetting, practice my scripting, and most of all, have fun with it.
