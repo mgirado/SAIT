@@ -1,0 +1,49 @@
+Script ran by: matt
+Date: 04-21-2021
+
+
+
+No files were found that exceeded the minimum age(1) in days required for deletion.
+
+
+Printing details about machine's CPU info below.
+
+processor	: 0
+
+vendor_id	: GenuineIntel
+
+model		: 142
+
+model name	: Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz
+
+cache size	: 6144 KB
+
+Displaying occurances of alphabet in data_file.txt in descending order.
+Max number of output values selected: 50
+
+('s', 774)
+('e', 684)
+('i', 522)
+('c', 513)
+('p', 513)
+('a', 450)
+('t', 369)
+('l', 360)
+('d', 324)
+('r', 315)
+('m', 297)
+('n', 279)
+('o', 270)
+('b', 207)
+('u', 198)
+('h', 162)
+('f', 153)
+('v', 153)
+('x', 144)
+('g', 135)
+('y', 90)
+('z', 45)
+('w', 36)
+('q', 18)
+('j', 9)
+('k', 9)
