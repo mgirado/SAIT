@@ -1,0 +1,20 @@
+Sample Run:
+
+Enter the filename: c:/temp/Calgary2019.csv
+# of days Max Temp reported = 356
+The average maximum temperature is 9.23
+# of days Min Temp reported = 356
+The average minimum temperature is -2.73
+
+
+Before modifying .java:
+
+Enter the filename: c:/temp/Calgary2019.csv
+# of days Max Temp reported = 356
+The average maximum temperature is 9.23
+
+After modifying .java:
+
+Enter the filename: c:/temp/Calgary2019.csv
+# of days Min Temp reported = 356
+The average minimum temperature is -2.73

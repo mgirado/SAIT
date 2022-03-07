@@ -1,0 +1,24 @@
+Electoral district name: Calgary Confederation
+Number of eligible voters in Calgary Confederation: 777
+CPC candidate name: Webber
+GPC candidate name: Odd
+LPC candidate name: Stein
+NDP candidate name: Sidhu
+PPC candidate name: Korol
+Polling station 1 data (CPC# GPC# LPC# NDP# PPC#): 
+141 12 47 18 1
+Polling station 2 data (CPC# GPC# LPC# NDP# PPC#): 
+116 11 46 18 4
+
+
+Results for Calgary Confederation
+
+     Party      Candidate     Votes    % Vote
+       CPC         Webber       257      62.1
+       GPC            Odd        23       5.6
+       LPC          Stein        93      22.5
+       NDP          Sidhu        36       8.7
+       PPC          Korol         5       1.2
+     Total                      414
+
+Voter turnout 777/414 = 53.3%

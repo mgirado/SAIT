@@ -1,0 +1,51 @@
+Enter account number: 2x3264619
+Invalid account number, the account number needs to be 8 digits
+Enter account number: 232
+Invalid account number, the account number needs to be 8 digits
+Enter account number: 23264617
+Invalid account number, check digit does not match last digit!
+Enter account number: 23264618
+Invalid account number, check digit does not match last digit!
+Enter account number: 23264619
+Enter Client Name: Harvey Wallbanger
+Enter Address of Mortgage property: 123 Main St
+Enter principal Amount: 325000
+Available Terms and Rates
+      Term      Rate
+    1 Year     3.59%
+    2 Year     3.74%
+    3 Year     2.96%
+    5 Year     3.29%
+   10 Year     6.10%
+
+Enter mortgage term in years (1, 2, 3, 5, 10): 4
+4 is an invalid term, please re-enter.
+Enter mortgage term in years (1, 2, 3, 5, 10): 1
+Enter mortgage amortization period (5, 10, 15, 20, 25): 30
+30 is an invalid amortization period
+Enter mortgage amortization period (5, 10, 15, 20, 25): 25
+Monthly payment amount is: 1638.11
+
+Payment schedule for Harvey Wallbanger
+Produced Wed Apr 29 17:08:10 MDT 2020
+Property address: 123 Main St
+Amortization Period (in years): 25
+Term of Mortgage (in years): 1
+Interest Rate: 3.59%
+                                                   Monthly Payment Schedule
+
+Month            Open Bal             Payment               Princ            Interest         Closing Bal
+    1           325000.00             1638.11              673.01              965.10           324326.99
+    2           324326.99             1638.11              675.01              963.10           323651.99
+    3           323651.99             1638.11              677.01              961.10           322974.98
+    4           322974.98             1638.11              679.02              959.09           322295.96
+    5           322295.96             1638.11              681.04              957.07           321614.92
+    6           321614.92             1638.11              683.06              955.05           320931.86
+    7           320931.86             1638.11              685.09              953.02           320246.77
+    8           320246.77             1638.11              687.12              950.98           319559.65
+    9           319559.65             1638.11              689.16              948.94           318870.49
+   10           318870.49             1638.11              691.21              946.90           318179.28
+   11           318179.28             1638.11              693.26              944.84           317486.02
+   12           317486.02             1638.11              695.32              942.79           316790.70
+=========================================================================================================
+ Ttls                                                     8209.30            11447.97
